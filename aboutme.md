@@ -1,3 +1,3 @@
-Name: Lubna Jeswani
-Degree: BSCS
+Name: Lubna Jeswani\
+Degree: BSCS\
 Hobby: COOKING
